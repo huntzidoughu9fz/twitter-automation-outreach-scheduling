@@ -1,4 +1,4 @@
-# twitter-automation-outreach-scheduling
+# twitter-automation
 
 This project is a production-grade Twitter automation system built for safe multi-account outreach, posting, and messaging at scale. It isolates each account, applies warm-ups and human-like pacing, and uses monitoring plus rollback controls to keep activity stable and compliant with platform thresholds.
 
@@ -13,7 +13,7 @@ This project is a production-grade Twitter automation system built for safe mult
 </p>
 <p align="center">
 Created by Appilot, built to showcase our approach to Automation! <br>
-If you are looking for custom <strong> twitter automation outreach scheduling </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
+If you are looking for custom <strong> twitter automation </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
 </p>
 
 
